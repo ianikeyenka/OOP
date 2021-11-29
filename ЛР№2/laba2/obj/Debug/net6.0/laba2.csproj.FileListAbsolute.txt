@@ -1,0 +1,15 @@
+F:\Program\Visual Studio\repos\laba2\laba2\obj\Debug\net6.0\laba2.csproj.AssemblyReference.cache
+F:\Program\Visual Studio\repos\laba2\laba2\obj\Debug\net6.0\laba2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Program\Visual Studio\repos\laba2\laba2\obj\Debug\net6.0\laba2.AssemblyInfoInputs.cache
+F:\Program\Visual Studio\repos\laba2\laba2\obj\Debug\net6.0\laba2.AssemblyInfo.cs
+F:\Program\Visual Studio\repos\laba2\laba2\obj\Debug\net6.0\laba2.csproj.CoreCompileInputs.cache
+F:\Program\Visual Studio\repos\laba2\laba2\bin\Debug\net6.0\laba2.exe
+F:\Program\Visual Studio\repos\laba2\laba2\bin\Debug\net6.0\laba2.deps.json
+F:\Program\Visual Studio\repos\laba2\laba2\bin\Debug\net6.0\laba2.runtimeconfig.json
+F:\Program\Visual Studio\repos\laba2\laba2\bin\Debug\net6.0\laba2.dll
+F:\Program\Visual Studio\repos\laba2\laba2\bin\Debug\net6.0\ref\laba2.dll
+F:\Program\Visual Studio\repos\laba2\laba2\bin\Debug\net6.0\laba2.pdb
+F:\Program\Visual Studio\repos\laba2\laba2\obj\Debug\net6.0\laba2.dll
+F:\Program\Visual Studio\repos\laba2\laba2\obj\Debug\net6.0\ref\laba2.dll
+F:\Program\Visual Studio\repos\laba2\laba2\obj\Debug\net6.0\laba2.pdb
+F:\Program\Visual Studio\repos\laba2\laba2\obj\Debug\net6.0\laba2.genruntimeconfig.cache
