@@ -1,0 +1,15 @@
+F:\Program\Visual Studio\repos\lab3\lab3\bin\Debug\net6.0\lab3.exe
+F:\Program\Visual Studio\repos\lab3\lab3\bin\Debug\net6.0\lab3.deps.json
+F:\Program\Visual Studio\repos\lab3\lab3\bin\Debug\net6.0\lab3.runtimeconfig.json
+F:\Program\Visual Studio\repos\lab3\lab3\bin\Debug\net6.0\lab3.dll
+F:\Program\Visual Studio\repos\lab3\lab3\bin\Debug\net6.0\ref\lab3.dll
+F:\Program\Visual Studio\repos\lab3\lab3\bin\Debug\net6.0\lab3.pdb
+F:\Program\Visual Studio\repos\lab3\lab3\obj\Debug\net6.0\lab3.csproj.AssemblyReference.cache
+F:\Program\Visual Studio\repos\lab3\lab3\obj\Debug\net6.0\lab3.GeneratedMSBuildEditorConfig.editorconfig
+F:\Program\Visual Studio\repos\lab3\lab3\obj\Debug\net6.0\lab3.AssemblyInfoInputs.cache
+F:\Program\Visual Studio\repos\lab3\lab3\obj\Debug\net6.0\lab3.AssemblyInfo.cs
+F:\Program\Visual Studio\repos\lab3\lab3\obj\Debug\net6.0\lab3.csproj.CoreCompileInputs.cache
+F:\Program\Visual Studio\repos\lab3\lab3\obj\Debug\net6.0\lab3.dll
+F:\Program\Visual Studio\repos\lab3\lab3\obj\Debug\net6.0\ref\lab3.dll
+F:\Program\Visual Studio\repos\lab3\lab3\obj\Debug\net6.0\lab3.pdb
+F:\Program\Visual Studio\repos\lab3\lab3\obj\Debug\net6.0\lab3.genruntimeconfig.cache
