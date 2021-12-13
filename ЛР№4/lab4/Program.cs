@@ -27,7 +27,7 @@ namespace lab4
         private int[,] arr1 = { { 1, 2, 3 }, { 4, 5, 6 } };
 
         //индексатор
-        public Int32 this [Int32 index]{get { return arr[index]; } }
+        public int this [int index]{get { return arr[index]; } }
         public int this[int index1, int index2] { get { return arr1[index1, index2]; } }
         //размер arr
         public int Size { get { return arr.Length; } }
