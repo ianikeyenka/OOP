@@ -1,8 +1,0 @@
-F:\Program\Visual Studio\repos\lab6_1\lab6_1\bin\Debug\lab6_1.exe.config
-F:\Program\Visual Studio\repos\lab6_1\lab6_1\bin\Debug\lab6_1.exe
-F:\Program\Visual Studio\repos\lab6_1\lab6_1\bin\Debug\lab6_1.pdb
-F:\Program\Visual Studio\repos\lab6_1\lab6_1\obj\Debug\lab6_1.csproj.AssemblyReference.cache
-F:\Program\Visual Studio\repos\lab6_1\lab6_1\obj\Debug\lab6_1.csproj.SuggestedBindingRedirects.cache
-F:\Program\Visual Studio\repos\lab6_1\lab6_1\obj\Debug\lab6_1.csproj.CoreCompileInputs.cache
-F:\Program\Visual Studio\repos\lab6_1\lab6_1\obj\Debug\lab6_1.exe
-F:\Program\Visual Studio\repos\lab6_1\lab6_1\obj\Debug\lab6_1.pdb
