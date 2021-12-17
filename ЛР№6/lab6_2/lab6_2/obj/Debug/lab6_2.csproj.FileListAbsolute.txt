@@ -1,0 +1,8 @@
+F:\Program\Visual Studio\repos\lab6_2\lab6_2\bin\Debug\lab6_2.exe.config
+F:\Program\Visual Studio\repos\lab6_2\lab6_2\bin\Debug\lab6_2.exe
+F:\Program\Visual Studio\repos\lab6_2\lab6_2\bin\Debug\lab6_2.pdb
+F:\Program\Visual Studio\repos\lab6_2\lab6_2\obj\Debug\lab6_2.csproj.AssemblyReference.cache
+F:\Program\Visual Studio\repos\lab6_2\lab6_2\obj\Debug\lab6_2.csproj.SuggestedBindingRedirects.cache
+F:\Program\Visual Studio\repos\lab6_2\lab6_2\obj\Debug\lab6_2.csproj.CoreCompileInputs.cache
+F:\Program\Visual Studio\repos\lab6_2\lab6_2\obj\Debug\lab6_2.exe
+F:\Program\Visual Studio\repos\lab6_2\lab6_2\obj\Debug\lab6_2.pdb
