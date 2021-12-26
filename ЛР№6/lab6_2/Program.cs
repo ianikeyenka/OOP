@@ -17,7 +17,7 @@ namespace lab6_2
     public class Square : GeometricFigure
     {
         int side;
-        int Side { get { return side; }}
+        public int Side { get { return side; }}
         public Square( int side)
         {
             this.side = side;
